@@ -1,0 +1,2 @@
+utiliza el método "negativo" para comparar si es un número positivo, negativo o cero y recibe de parametro un doble n
+para recibir unicamente enteros y el programa no falle se creó el metodo leerdobles que valida la entrada 
